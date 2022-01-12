@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShivakumarRT
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascipt
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascipt.
 - 📫 How to reach me via mail
 
 <!---
